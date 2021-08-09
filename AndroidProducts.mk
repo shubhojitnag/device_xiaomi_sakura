@@ -14,4 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_sakura.mk
+ $(LOCAL_DIR)/lineage_sakura.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_sakura-user \
+    lineage_sakura-userdebug \
+    lineage_sakura-eng
