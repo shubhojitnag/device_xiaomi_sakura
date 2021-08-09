@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2018 The LineageOS Project
+     Copyright (C) 2021 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -19,8 +19,9 @@
     <string name="camera_title">Camera HAL Switch</string>
     <string name="camera_pref_title">Choose a HAL</string>
     <string name="camera_summary">Change camera HAL</string>
-    <string name="camera_hal1_summary">HAL1</string>
-    <string name="camera_hal3_summary">HAL3</string>
+    <string name="camera_hal1_summary">Cam2api OFF</string>
+    <string name="camera_hal3_summary">Cam2api ON</string>
+<!-- commit id a11284ca3127e7adb3b0a472cf78418051085003 @FrosT2k5 -->
 
      <!-- QS tile title -->
     <string name="camera_qs_tile_title">Camera HAL</string>
