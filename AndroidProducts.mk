@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
- $(LOCAL_DIR)/stag_sakura.mk
+ $(LOCAL_DIR)/arrow_sakura.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_sakura-user \
-    stag_sakura-userdebug \
-    stag_sakura-eng
+    arrow_sakura-user \
+    arrow_sakura-userdebug \
+    arrow_sakura-eng
