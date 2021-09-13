@@ -484,5 +484,9 @@ PRODUCT_BOOT_JARS += \
     WfdCommon
 
 # Styx
-#PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
     Styx
+
+# Remove Packages
+PRODUCT_PACKAGES += \
+    RemovePackages
